@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>SEARS principal</title>
+         <link rel="shortcut icon" href="logo.jpg">
+    </head>
+    <body bgcolor="#FD0707">
+    <img src=logo.png width="270" height="200">
+	<h1 align="center">
+	<font color ="white" size="6" face="arial">
+        los mejores productos los encuentras en sears 
+	</font>
+	<hr>
+    <marquee behavior="alternative">
+    <img src=camisas.jpg width="250" height="250">
+    <img src=sueter.jpg width="250" height="250">
+    <img src=gorras.jpg width="250" height="250">
+    <img src=tazas.jpg width="250" height="250">
+    <img src=tenis.jpg width="250" height="250">
+    <img src=gafas.jpg width="250" height="250">
+    </marquee>
+		<table align="center" border="0" width="10%" height="10%" cellpadding="0" cellspacing="0">
+		<tr>
+		<td align="center"><A href="principal.html"><img src=principal.png width="140" height="140"></A>
+		<font color="white" size="5" face="arial">
+		 principal
+		 </font></td>
+		 <br>
+		 <td align="center"><A href="historia.html"><img src=historia.png width="140" height="140"></A>
+		 <font color="white" size="5" face="arial">
+		 historia
+		 </font></td>
+		<br> 
+		 <td align="center"><A href="productos.html"><img src=productos.png width="140" height="140"></A>
+		 <font color="white" size="5" face="arial">
+		 productos
+		 </font></td>
+		 <br>
+		 <td align="center"><A href="contacto.html"><img src=contactO.png width="140" height="140"></A>
+		 <font color="white" size="5" face="arial">
+		 contacto
+		 </font></td>
+			<b>
+			<br>
+			<br>
+				&copy; 2022 Derechos  Reservados <br>
+				Dsearrollado por: Hernandez Del carmen Gamaliel 
+				Matricula: 01922589 
+				Grupo:605 <br>
+				Plantel: Cobach Nueva Tijuana 
+	        </p>
+			</font>
+			</p>
+		</body>
+        </html>
+

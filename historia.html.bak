@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title> SEARS hsitoria </title>
+        <link rel="shortcut icon" href="logo.jpg">
+    </head>
+    <body bgcolor="#880909">
+    <img src=logo.jpg width="200" height="200">
+    <h1 align="center">
+	<font color="white" size="5" face="arial">
+        Nuestra Historia
+		</font>
+    </h1>
+	<hr>
+    <br>
+	<center>
+    <li>
+         <font class="white" size="4" face="arial">
+        Historia
+      </font>
+     </li>
+     <center>
+     <p align="left">
+	 <center>En 1886, Ciudad de Mexico.- Los alamacenes sears iniciaron en 1886. Richard Warren Sears, fundador, abrio la primera tienda en miniapolis, se llamaba "R.W. Sears Watch Company". Comenzaron con la venta de relojes de bolsillo, Joyeria y diamantes         
+	 </p>          
+     </p>
+     <center>
+	 <li>
+	 <font color="white" size="4" face="arial">
+         Mision 
+  </font>
+</li>
+<center>
+<p align="left">
+ <center>La empresea tiene como objetivo principal ofrecer prodcutos que satisfagan las necesidades del cliente 
+</p>
+</p>   
+<center>
+<li>
+<font color="white" size="3" face="arial">
+Vision
+</font>
+</li>
+<center>su vision apunta a ser una de las mejores tiendas en calidad de productos, proporcionando la mejor atencion que solo ellos pueden dar
+</p>
+		 <br>
+		 <A href="principal.html">
+			<img src=principal.jpg width="200" height="200">
+			    </A>
+				 <br>
+				 <font color="white" size="3" face="arial">
+				       Principal
+				       </font>
+					   <br>
+					   <p align="center">
+					   <font color="white" size="2" face="arial">
+					   <b>
+				<br>
+               <A href="hisotiria.html">
+               <img src=historia.png width="200" height="200">
+               </A>
+               <br>
+			   		 <br>
+		 <A href="historia.html">
+			<img src=hisotria.jpg width="200" height="200">
+			    </A>
+				 <br>
+				 <font color="white" size="3" face="arial">
+				       hisotria
+				       </font>
+					   <br>
+					   <p align="center">
+					   <font color="white" size="2" face="arial">
+					   <b>
+				<br>
+               <A href="hisotiria.html">
+               <img src=historia.png width="200" height="200">
+               </A>
+               <br>
+         
+             			 
+				&copy; 2022.Derechos  Reservados <br>
+				Dsearrollado por Hernandez Del carmen Gamaliel 
+				Matricula:01922589 
+				Grupo:605 <br>
+				Plantel Nueva Tijuana 
+			</b>
+			</font>
+			</p>
+			</body>
+        </html>
